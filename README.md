@@ -1,4 +1,4 @@
-****************** Measurement Campaign Procedure ******************************************************************
+****************** Measurement Campaign Procedure **********************************************************
 File: Rx-Tx_meas_campaign procedure.pdf
 Includes:
 1. Tx CS startup
