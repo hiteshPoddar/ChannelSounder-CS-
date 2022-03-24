@@ -3,7 +3,7 @@
 2. CS_max_operating_distance.m --- based on the p_exp (path loss exponent) depending on the fc (center frequency) and environment calculate the Rxd power over a distance 'd'. If Rxd power at 'd' is == Min_Rx_Power (obtained from dynamic range) then 'd' is the maximum distance between Tx and Rx. For a larger 'd' the Rxd pwr < Min_Rx_Power and the receiver will not be able to detect.
 
 ********** System Gain Calculation from Calibration Data during Measurement Campaign***************
-Method 1 :
+                                  Method 1 :
 ***************************************************************************************************
 system_gain_cal_from_cal_data_HP.m -- Code to calculate system gain from calibration data obtained during each day of measurement during the campaign.
 
